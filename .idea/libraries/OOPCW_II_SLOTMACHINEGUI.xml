@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OOPCW_II_SLOTMACHINEGUI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/OOPCW_II_SLOTMACHINEGUI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

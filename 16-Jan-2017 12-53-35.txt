@@ -1,0 +1,7 @@
+16-Jan-2017 12-53-35
+	 Number of Matches  : 1
+	 Matches Won        : 0
+	 Matches Lost       : 0
+	 Credits Won        : 13
+	 Credits Lost       : 0
+	 Average            : 13.0
